@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="address" class="com.d1.pojo.Address">
+        <property name="address" value="西安"/>
+    </bean>
+    <bean id="student" class="com.d1.pojo.Student">
+        <property name="name" value="小明"/>
+        <property name="address" ref="address"/>
+        <property name="books">
+            <array>
+                <value>金刚大战哥斯拉</value>
+                <value>西游记</value>
+                <value>红楼梦</value>
+                <value>三国演义</value>
+            </array>
+        </property>
+        <property name="hobbys">
+            <list>
+                <value>网易云</value>
+                <value>打游戏</value>
+                <value>看电影</value>
+            </list>
+        </property>
+        <property name="card">
+            <map>
+                <entry key="身份证" value="888888"/>
+                <entry key="银行卡" value="666666"/>
+                <entry key="SB" value="999999"/>
+            </map>
+        </property>
+        <property name="games">
+            <set>
+                <value>LOL</value>
+                <value>CSGO</value>
+                <value>GTAFive</value>
+            </set>
+        </property>
+        <property name="wife">
+            <null></null>
+        </property>
+        <property name="info">
+            <props>
+                <prop key="学号">2019215210</prop>
+                <prop key="性别">男</prop>
+            </props>
+        </property>
+    </bean>
+
+
+</beans>

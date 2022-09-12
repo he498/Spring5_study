@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca72ef75-45a6-478a-a177-d09c4f4152bb" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.3\LocalRepository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qgyvlm6AksKYHlYunFyZKR9GDo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <module name="demo01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca72ef75-45a6-478a-a177-d09c4f4152bb" name="默认更改列表" comment="" />
+      <created>1617515760887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617515760887</updated>
+      <workItem from="1617515763608" duration="4377000" />
+      <workItem from="1617612541581" duration="2491000" />
+      <workItem from="1617931662074" duration="2797000" />
+      <workItem from="1617934815115" duration="94000" />
+      <workItem from="1617935039586" duration="38000" />
+      <workItem from="1618207924701" duration="210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1352" y="284" key="#com.intellij.ide.util.MemberChooser" timestamp="1617518302847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1352" y="284" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617518302847" />
+    <state x="748" y="274" key="#项目结构" timestamp="1617516546181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="748" y="274" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1617516546181" />
+    <state width="1259" height="142" key="GridCell.Tab.0.bottom" timestamp="1617934735695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1259" height="142" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617934735695" />
+    <state width="1259" height="142" key="GridCell.Tab.0.center" timestamp="1617934735695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1259" height="142" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617934735695" />
+    <state width="1259" height="142" key="GridCell.Tab.0.left" timestamp="1617934735695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1259" height="142" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617934735695" />
+    <state width="1259" height="142" key="GridCell.Tab.0.right" timestamp="1617934735695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1259" height="142" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617934735695" />
+    <state x="333" y="227" key="SettingsEditor" timestamp="1617517505332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="333" y="227" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1617517505332" />
+    <state x="346" y="228" key="new project wizard" timestamp="1617934732572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="346" y="228" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1617934732572" />
+    <state x="853" y="225" key="spring file set editor" timestamp="1617932431836">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="853" y="225" key="spring file set editor/0.0.1920.1040@0.0.1920.1040" timestamp="1617932431836" />
+  </component>
+</project>
